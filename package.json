@@ -36,11 +36,13 @@
     "data/*.json",
     "src/client.js",
     "scripts/*.mjs",
+    "scripts/lib/*.mjs",
     "README.md",
     "README.zh.md",
     "CONTRIBUTING.md",
     "LICENSE",
-    "LICENSE-DATA"
+    "LICENSE-DATA",
+    "AGENTS.md"
   ],
   "scripts": {
     "sync": "node scripts/sync.mjs",
