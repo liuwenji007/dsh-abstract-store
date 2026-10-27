@@ -1,0 +1,4 @@
+# dsh-abstract-index bundle patch: inserts the index tab into a profile.
+- insert:
+    - id: abstract-index
+      name: 'dsh-abstract-index'

@@ -1,0 +1,674 @@
+{
+  "rubric": {
+    "scale": "0-100 integers",
+    "weights": {
+      "absurdity": 0.5,
+      "emotion": 0.3,
+      "craft": 0.2
+    },
+    "score": "round(absurdity*0.5 + emotion*0.3 + craft*0.2)"
+  },
+  "entries": {
+    "609476965__dsh-LorebookMD": {
+      "include": true,
+      "theme": "media",
+      "absurdity": 82,
+      "emotion": 60,
+      "craft": 55,
+      "adult": false,
+      "verdict": {
+        "zh": "把酒馆角色卡搬进写代码的地方，还顺手写起了小说。",
+        "en": "It drags tavern character cards into a coding harness and starts writing novels."
+      }
+    },
+    "Aik358__dsh-draw-gacha": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 96,
+      "emotion": 88,
+      "craft": 78,
+      "adult": false,
+      "verdict": {
+        "zh": "把思维链变成抽卡演出，模型想什么先不管，先看这一发金不金。",
+        "en": "Reasoning traces become a gacha pull; never mind the thinking, is this one gold?"
+      }
+    },
+    "AnacondaKC__dsh-douyin": {
+      "include": true,
+      "theme": "media",
+      "absurdity": 84,
+      "emotion": 72,
+      "craft": 68,
+      "adult": false,
+      "verdict": {
+        "zh": "短视频被搬进侧栏，写代码和刷视频终于不用切窗口。",
+        "en": "Short video moves into the sidebar, so you no longer switch windows to slack off."
+      }
+    },
+    "AnacondaKC__dsh-stock-market": {
+      "include": true,
+      "theme": "market",
+      "absurdity": 92,
+      "emotion": 85,
+      "craft": 60,
+      "adult": false,
+      "verdict": {
+        "zh": "自称修复了「写代码时账户不能亏钱」的 BUG，亏钱成了功能。",
+        "en": "It fixes the bug where your account can't lose money while you code; the loss is now a feature."
+      }
+    },
+    "Awu12277__dsh-stock-watch": {
+      "include": true,
+      "theme": "market",
+      "absurdity": 38,
+      "emotion": 42,
+      "craft": 70,
+      "adult": false,
+      "verdict": {
+        "zh": "功能齐全的 A 股盯盘器，荒诞之处只在于它出现在编程工具里。",
+        "en": "A fully competent A-share ticker, absurd only for living inside a coding tool."
+      }
+    },
+    "chen731215-dev__-": {
+      "include": true,
+      "theme": "media",
+      "absurdity": 60,
+      "emotion": 55,
+      "craft": 55,
+      "adult": false,
+      "verdict": {
+        "zh": "仓库名只有一个「-」，内容是一整套酒馆面板，命名与野心都很抽象。",
+        "en": "The repo is literally called '-', and it opens into a full tavern panel; the naming is its own joke."
+      }
+    },
+    "cipher2026__dsh-idle-deepcompute": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 88,
+      "emotion": 78,
+      "craft": 72,
+      "adult": false,
+      "verdict": {
+        "zh": "写不动代码的时候，可以在终端里挂机训练到 ASI。",
+        "en": "When you cannot write another line, idle your way from neural nets to ASI in a terminal."
+      }
+    },
+    "DamonKoy__dsh-web-ui--packages-dsh-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 62,
+      "emotion": 70,
+      "craft": 60,
+      "adult": false,
+      "verdict": {
+        "zh": "多只桌宠由注册表排班，模型一忙它们就集体开工。",
+        "en": "A registry of pets, all clocking in the moment the model gets busy."
+      }
+    },
+    "eric-song-dev__dsh-ikun-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 97,
+      "emotion": 92,
+      "craft": 80,
+      "adult": false,
+      "verdict": {
+        "zh": "坤宠沿进度条行走，每 20% 换一个动作，收尾那声「你干嘛」从不迟到。",
+        "en": "An ikun sprite paces the progress bar and lands its 'nǐ gàn ma~' exactly on completion."
+      }
+    },
+    "falser101__dsh-mascot": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 55,
+      "emotion": 68,
+      "craft": 65,
+      "adult": false,
+      "verdict": {
+        "zh": "猫狗随会话换表情，至少它比你更在意这段对话。",
+        "en": "A cat or dog whose expression follows the session, caring more about it than you do."
+      }
+    },
+    "Gin-7__dsh-pet-remielle": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 60,
+      "emotion": 72,
+      "craft": 62,
+      "adult": false,
+      "verdict": {
+        "zh": "绝区零的蕾米埃尔替你看管工作状态，表情比进度条诚实。",
+        "en": "Remielle watches your work state with a face more honest than a progress bar."
+      }
+    },
+    "hellodigua__dsh-emoji": {
+      "include": true,
+      "theme": "meme",
+      "absurdity": 70,
+      "emotion": 60,
+      "craft": 55,
+      "adult": false,
+      "verdict": {
+        "zh": "在 AI 的每句话后面补表情，让回答显得比它本人更热情。",
+        "en": "It sprinkles emoji onto every AI reply so the answer seems more enthusiastic than the model."
+      }
+    },
+    "hellosz__dsh-pets": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 72,
+      "emotion": 78,
+      "craft": 88,
+      "adult": false,
+      "verdict": {
+        "zh": "十只宠物、九个状态，还给了 agent 一个借宠物开口的工具。",
+        "en": "Ten pets, nine states, and a pet_say tool that lets the agent speak through them."
+      }
+    },
+    "HuanLinOTO__dsh-plugin-d399": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 74,
+      "emotion": 68,
+      "craft": 55,
+      "adult": false,
+      "verdict": {
+        "zh": "模型一生成，消消乐和 wordle 就弹出来，等待被做成了菜单。",
+        "en": "A match-3 and a Wordle menu pop up the moment the model starts generating."
+      }
+    },
+    "JAdpp__dsh-whale-galgame": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 90,
+      "emotion": 92,
+      "craft": 85,
+      "adult": false,
+      "verdict": {
+        "zh": "角色会接住跨会话的任务事件，写代码顺便谈一场 galgame。",
+        "en": "Characters catch the task events of your sessions; you code and date a visual novel cast."
+      }
+    },
+    "jitengfei__dsh-whale-arcade": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 66,
+      "emotion": 60,
+      "craft": 60,
+      "adult": false,
+      "verdict": {
+        "zh": "浏览器本地的鲸鱼游戏厅，等 agent 的时候顺手打两局。",
+        "en": "A browser-local whale arcade for a couple of rounds while the agent works."
+      }
+    },
+    "KongChengZhi__dsh-pixel-studio--dsh-cli-anything-aseprite": {
+      "include": true,
+      "theme": "media",
+      "absurdity": 88,
+      "emotion": 55,
+      "craft": 90,
+      "adult": false,
+      "verdict": {
+        "zh": "AI 一笔一笔画出像素精灵，你在终端里看它慢慢上色。",
+        "en": "The AI draws a pixel sprite stroke by stroke, and you watch it fill in, frame by ANSI frame."
+      }
+    },
+    "lhh010__dsh-minigames": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 70,
+      "emotion": 62,
+      "craft": 68,
+      "adult": false,
+      "verdict": {
+        "zh": "十八款离线小游戏塞进侧栏，摸鱼被正式纳入工作流。",
+        "en": "Eighteen offline mini-games in the side panel; slacking off joins the workflow."
+      }
+    },
+    "lucky8197__dsh-devquest": {
+      "include": true,
+      "theme": "growth",
+      "absurdity": 84,
+      "emotion": 88,
+      "craft": 82,
+      "adult": false,
+      "verdict": {
+        "zh": "回合和 todo 都能换 XP，工作本身就是那款游戏，逃不掉。",
+        "en": "Turns and todos pay out XP. The work is the game now, and there is no logging off."
+      }
+    },
+    "luumod__dsh-achievements": {
+      "include": true,
+      "theme": "growth",
+      "absurdity": 60,
+      "emotion": 72,
+      "craft": 75,
+      "adult": false,
+      "verdict": {
+        "zh": "读代码、跑测试、连续天数都发徽章，工作被逐条记成成就。",
+        "en": "Badges for reading code, running tests and daily streaks; the workday gets itemized."
+      }
+    },
+    "marvin9551__dynamic-schulte-dsh": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 60,
+      "emotion": 55,
+      "craft": 50,
+      "adult": false,
+      "verdict": {
+        "zh": "舒尔特方格做成等待小游戏，等模型的时间刚好够你走神。",
+        "en": "A Schulte grid as a waiting game: just enough time for your mind to wander."
+      }
+    },
+    "miku00039-01__dsh-whale-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 55,
+      "emotion": 60,
+      "craft": 70,
+      "adult": false,
+      "verdict": {
+        "zh": "鲸鱼娘站在桌面上管服务开关，顺便当你的启动器。",
+        "en": "A whale girl on the desktop that runs the service and doubles as your launcher."
+      }
+    },
+    "minybear__DeepSeek-Harness-Pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 50,
+      "emotion": 62,
+      "craft": 55,
+      "adult": false,
+      "verdict": {
+        "zh": "右下角一只精灵替你盯着 agent，忙、等、报错、完成四种脸色。",
+        "en": "A sprite in the corner holds four faces for the agent: working, waiting, failed, done."
+      }
+    },
+    "Moeblack__deepseek-manners": {
+      "include": true,
+      "theme": "meme",
+      "absurdity": 88,
+      "emotion": 75,
+      "craft": 40,
+      "adult": false,
+      "verdict": {
+        "zh": "每条消息后塞一句感谢语，礼貌被做成了一个强制中间件。",
+        "en": "A thank-you note after every message: politeness as mandatory middleware."
+      }
+    },
+    "Nagi-ovo__dsh-ads": {
+      "include": true,
+      "theme": "meme",
+      "absurdity": 100,
+      "emotion": 82,
+      "craft": 90,
+      "adult": false,
+      "verdict": {
+        "zh": "2005 年中文站风格的弹窗广告连关闭按钮都做小了，素材全假。",
+        "en": "2005 Chinese-web pop-up ads with undersized close buttons, and every ad is fictional."
+      }
+    },
+    "Nanki-nn__dsh-answer-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 62,
+      "emotion": 68,
+      "craft": 80,
+      "adult": false,
+      "verdict": {
+        "zh": "回答进度、token 和输出速率都长在一只宠物身上，监控变得可爱。",
+        "en": "Progress, tokens and output rate all hang on a pet, which makes monitoring almost cute."
+      }
+    },
+    "nzl153__dsh-pet-whale": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 58,
+      "emotion": 70,
+      "craft": 82,
+      "adult": false,
+      "verdict": {
+        "zh": "官方鲸鱼轮廓做的纯 SVG 桌宠，你戳它一下它还会翻滚。",
+        "en": "A pure-SVG pet traced from the official whale outline; poke it and it barrel-rolls."
+      }
+    },
+    "omdsh-dev__dsh-auto-chess": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 60,
+      "emotion": 55,
+      "craft": 55,
+      "adult": false,
+      "verdict": {
+        "zh": "自走棋可以人机，也可以看着两个 AI 互相算计。",
+        "en": "Auto chess against the AI, or two AIs scheming at each other while you watch."
+      }
+    },
+    "omdsh-dev__dsh-gomoku": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 50,
+      "emotion": 48,
+      "craft": 55,
+      "adult": false,
+      "verdict": {
+        "zh": "五子棋的对手是 AI，或者你退到一边看两个 AI 下棋。",
+        "en": "Gomoku against an AI, or step aside and let two AIs play it out."
+      }
+    },
+    "ovdoesw__dsh-xiangqi": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 68,
+      "emotion": 65,
+      "craft": 78,
+      "adult": false,
+      "verdict": {
+        "zh": "卡通宠物请你下象棋，还能叫几个模型来点评残局。",
+        "en": "A cartoon mascot invites you to play xiangqi, and several models comment on the position."
+      }
+    },
+    "PC2005-cloud__dsh-pet--dsh-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 55,
+      "emotion": 70,
+      "craft": 88,
+      "adult": false,
+      "verdict": {
+        "zh": "二十五个透明动画让它满屏乱走，素材链还能自己复现。",
+        "en": "Twenty-five transparent animations let it wander the screen; the asset pipeline is reproducible."
+      }
+    },
+    "PM25000__dsh-ths-holdings": {
+      "include": true,
+      "theme": "market",
+      "absurdity": 45,
+      "emotion": 60,
+      "craft": 75,
+      "adult": false,
+      "verdict": {
+        "zh": "同花顺账本自动同步到悬浮卡片，亏多少终于实时可见。",
+        "en": "Your Tonghuashun ledger syncs to a floating card, so the losses are finally real-time."
+      }
+    },
+    "potoior__dsh-bull-bear": {
+      "include": true,
+      "theme": "market",
+      "absurdity": 88,
+      "emotion": 85,
+      "craft": 75,
+      "adult": false,
+      "verdict": {
+        "zh": "收益越接近 20% 宠物跑得越猛，牛市先跑在桌面上。",
+        "en": "The closer gains get to 20%, the harder the pet runs; the bull market hits your desktop first."
+      }
+    },
+    "qimidandapigu__dsh-xiaotangyuan-game--apps-harness-plugin": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 80,
+      "emotion": 78,
+      "craft": 78,
+      "adult": false,
+      "verdict": {
+        "zh": "小汤圆在星露谷里陪你种地，还听得见你按住说话。",
+        "en": "XiaoTangYuan farms with you in Stardew Valley and listens when you push to talk."
+      }
+    },
+    "Rain-Shuoyu__dsh-client-deep-sneak": {
+      "include": true,
+      "theme": "media",
+      "absurdity": 92,
+      "emotion": 85,
+      "craft": 88,
+      "adult": false,
+      "verdict": {
+        "zh": "B站小窗会在 agent 要你时暂停，摸鱼因此有了纪律。",
+        "en": "The Bilibili player pauses when the agent needs you, which gives slacking a kind of discipline."
+      }
+    },
+    "Signalight__codex-to-dsh-pet--packages-dsh-codex-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 62,
+      "emotion": 68,
+      "craft": 85,
+      "adult": false,
+      "verdict": {
+        "zh": "任何 Codex 桌宠图集都能导入，眼睛还会跟着鼠标走。",
+        "en": "Any Codex pet atlas imports here, and its eyes track your mouse."
+      }
+    },
+    "sjh9714__clippy-harness--plugin": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 96,
+      "emotion": 90,
+      "craft": 65,
+      "adult": false,
+      "verdict": {
+        "zh": "回形针回来了，回合失败时弹出的还是经典的「非法操作」。",
+        "en": "Clippy is back, and a failed turn still gets the classic 'illegal operation' dialog."
+      }
+    },
+    "skiuniverse__dsh-running-liang": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 88,
+      "emotion": 80,
+      "craft": 72,
+      "adult": false,
+      "verdict": {
+        "zh": "恐龙快跑挂在进度条上，从「梁子」一路冲向「梁圣」。",
+        "en": "A Chrome-dino runner rides the progress strip from 'Liangzi' to 'Liang the Saint'."
+      }
+    },
+    "skr311__dsh-codex-pet--packages-dsh-codex-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 55,
+      "emotion": 62,
+      "craft": 72,
+      "adult": false,
+      "verdict": {
+        "zh": "导入 Codex 精灵图集并在浮层里养，另配一个桌宠图库。",
+        "en": "Codex sprite sheets imported into a floating overlay, with a pet library to manage them."
+      }
+    },
+    "Sutera-Diffusus__dsh-whale-musume": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 65,
+      "emotion": 85,
+      "craft": 88,
+      "adult": false,
+      "verdict": {
+        "zh": "摸头会长大的鲸鱼娘，494 句台词和 30 个成就全在本地。",
+        "en": "A whale girl who grows when you pat her, keeping 494 lines and 30 achievements local."
+      }
+    },
+    "swaylq__dsh-digipet": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 90,
+      "emotion": 88,
+      "craft": 80,
+      "adult": false,
+      "verdict": {
+        "zh": "数码蛋吃你真实的工作长大，进化方向按你的干活方式决定。",
+        "en": "A digi-egg feeds on your real work and evolves along lines set by how you work."
+      }
+    },
+    "swaylq__dsh-wildmon": {
+      "include": true,
+      "theme": "game",
+      "absurdity": 92,
+      "emotion": 88,
+      "craft": 82,
+      "adult": false,
+      "verdict": {
+        "zh": "代码就是草丛，工具调用刷出野生宝可梦，图鉴靠工位攒。",
+        "en": "Code is the tall grass: tool calls spawn wild Pokemon, and the dex fills up at your desk."
+      }
+    },
+    "THEWOLFWALKER__dsh-coyote": {
+      "include": true,
+      "theme": "other",
+      "absurdity": 100,
+      "emotion": 95,
+      "craft": 95,
+      "adult": true,
+      "verdict": {
+        "zh": "把 agent 的工具调用接到电击装置上，安全边界写得比说明书还厚。",
+        "en": "Agent tool calls wired to an e-stim device behind a safety envelope thicker than its manual."
+      }
+    },
+    "Tisitan__dsh-live2d-companion": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 65,
+      "emotion": 75,
+      "craft": 82,
+      "adult": false,
+      "verdict": {
+        "zh": "Live2D 桌宠带八态状态灯，还能置顶成一块透明窗口。",
+        "en": "A Live2D pet with an eight-state status lamp and an always-on-top transparent window."
+      }
+    },
+    "txlznbzsdj-collab__dsh-deepseek-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 55,
+      "emotion": 65,
+      "craft": 62,
+      "adult": false,
+      "verdict": {
+        "zh": "蓝色小鲸鱼听凭 pet_say 调用，在对话结束时负责庆祝。",
+        "en": "A little blue whale answers to pet_say and handles the celebration when a turn ends."
+      }
+    },
+    "vlln__whale-girl": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 50,
+      "emotion": 65,
+      "craft": 62,
+      "adult": false,
+      "verdict": {
+        "zh": "QQ 宠物形态的鲸鱼娘，能拖、能喂、能玩，就这三件事。",
+        "en": "A whale girl in QQ-pet form: draggable, feedable, playable, and that is all of it."
+      }
+    },
+    "william-jin-cmu__dsh-stickers": {
+      "include": true,
+      "theme": "meme",
+      "absurdity": 74,
+      "emotion": 72,
+      "craft": 50,
+      "adult": false,
+      "verdict": {
+        "zh": "用户和 agent 互相贴表情，对话里多了一条情绪支线。",
+        "en": "User and agent trade stickers, adding an emotional side channel to the conversation."
+      }
+    },
+    "WJNCT55555__dsh-achievements": {
+      "include": true,
+      "theme": "growth",
+      "absurdity": 58,
+      "emotion": 70,
+      "craft": 80,
+      "adult": false,
+      "verdict": {
+        "zh": "成就墙按分类和稀有度排开，输入坞里还挂着一条进度读条。",
+        "en": "An achievement wall sorted by category and rarity, with a progress bar in the composer dock."
+      }
+    },
+    "xiaoshihou514__dsh-desktop-pet": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 45,
+      "emotion": 55,
+      "craft": 35,
+      "adult": false,
+      "verdict": {
+        "zh": "说明只有一句「鲸鱼娘桌宠，桌面端！」，其余全靠自己悟。",
+        "en": "The whole description is 'DSH pet, on the desktop!', and the product is just as direct."
+      }
+    },
+    "yyh-001__dsh-meme": {
+      "include": true,
+      "theme": "meme",
+      "absurdity": 82,
+      "emotion": 78,
+      "craft": 75,
+      "adult": false,
+      "verdict": {
+        "zh": "斗图、情绪自动发图、AI 学图，表情包长成了对话协议。",
+        "en": "Sticker duels, mood-triggered sends and an AI that learns packs; memes become a protocol."
+      }
+    },
+    "zoahdev__dsh-pet-evolve": {
+      "include": true,
+      "theme": "pet",
+      "absurdity": 68,
+      "emotion": 80,
+      "craft": 78,
+      "adult": false,
+      "verdict": {
+        "zh": "五段进化全靠真实信号，最后还能导出一张成长分享卡。",
+        "en": "Five evolution stages driven by real signals, ending with a share card of your growth."
+      }
+    },
+    "AmeKrance__anan-thermal-monitor": {
+      "include": false,
+      "reason": {
+        "zh": "本质是 CPU/GPU 温度监控，桌宠只是外壳，没有荒诞前提。",
+        "en": "At heart a CPU/GPU temperature monitor; the desktop pet is a shell, and there is no absurd premise."
+      }
+    },
+    "Bob-Bo1__dsh-stock-watch": {
+      "include": false,
+      "reason": {
+        "zh": "普通的本地持仓与自选面板，同类行情工具里最平淡的一个。",
+        "en": "An ordinary local portfolio and watchlist panel, the plainest of the market tools here."
+      }
+    },
+    "hellosky983__dsh-mc-agent": {
+      "include": false,
+      "reason": {
+        "zh": "把 AI 接进 Minecraft 的启动器加代理，更像集成而非整活。",
+        "en": "A launcher and proxy that wires AI into Minecraft: an integration, not a joke."
+      }
+    },
+    "says693__dsh-log-memory": {
+      "include": false,
+      "reason": {
+        "zh": "定时提醒你备份会话日志，是实用工具，不是抽象作品。",
+        "en": "A timed reminder to back up session logs: a practical utility, not an abstract artifact."
+      }
+    },
+    "xczhanjun__lazeword": {
+      "include": false,
+      "reason": {
+        "zh": "离线背单词应用，内容扎实，但和「抽象」没有关系。",
+        "en": "An offline vocabulary trainer, solid enough, but it has nothing to do with the absurd."
+      }
+    },
+    "xiekai886__dsh-MusicPlayer": {
+      "include": false,
+      "reason": {
+        "zh": "悬浮网易云播放器，好用，但只是一台普通播放器。",
+        "en": "A floating NetEase player: handy, but still just a music player."
+      }
+    },
+    "yushi-xxh__dsh-homepage-skin": {
+      "include": false,
+      "reason": {
+        "zh": "给页面换一张首页同款背景，纯装饰，没有可讲的前提。",
+        "en": "It swaps in the homepage background: pure decoration, with no premise to speak of."
+      }
+    }
+  }
+}

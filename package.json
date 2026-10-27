@@ -1,0 +1,66 @@
+{
+  "name": "dsh-abstract-index",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Abstract Plugins Index — an open-source, curated index of the most gloriously absurd DeepSeek Harness plugins. · 抽象插件名录：收录 DSH 生态里最抽象的插件。",
+  "license": "MIT",
+  "author": "liuwenji007",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuwenji007/dsh-abstract-store.git"
+  },
+  "homepage": "https://github.com/liuwenji007/dsh-abstract-store#readme",
+  "bugs": {
+    "url": "https://github.com/liuwenji007/dsh-abstract-store/issues"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "abstract",
+    "curated-list"
+  ],
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "icon.svg",
+    "locale/*.json",
+    "data/*.json",
+    "src/client.js",
+    "scripts/*.mjs",
+    "README.md",
+    "README.zh.md",
+    "CONTRIBUTING.md",
+    "LICENSE",
+    "LICENSE-DATA"
+  ],
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "build": "node scripts/build-client.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/validate.mjs && node scripts/build-client.mjs && node --check client.js"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": [
+        "@deepseek-ai/dsh-client-locale"
+      ]
+    }
+  }
+}

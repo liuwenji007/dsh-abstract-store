@@ -1,0 +1,20 @@
+Data and editorial text license
+================================
+
+1. `data/snapshot.json` is derived from the awesome-dsh-plugin repository
+   (https://github.com/awesome-dsh-plugin/awesome-dsh-plugin), which publishes
+   its list under CC0-1.0. Plugin descriptions, names and URLs remain the work
+   of their respective authors; they are reproduced as facts for identification
+   and attribution.
+
+2. Everything in `data/curation.json` — inclusion decisions, themes, scores,
+   verdicts, exclusion reasons — and all non-code prose in this repository is
+   dedicated to the public domain under CC0 1.0 Universal.
+
+   To the extent possible under law, the contributors have waived all copyright
+   and related or neighboring rights to this work. You should have received a
+   copy of the CC0 legal code along with this work; if not, see
+   https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+3. The software code (JavaScript, build scripts, configuration) is licensed
+   under the MIT License; see LICENSE.

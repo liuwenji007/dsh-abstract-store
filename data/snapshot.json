@@ -1,0 +1,1022 @@
+{
+  "generatedAt": "2026-10-27T07:54:25.833Z",
+  "upstream": {
+    "name": "awesome-dsh-plugin",
+    "repo": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "commit": "f491ec15f84dce68d6b4698fd500aadc9572448c",
+    "commitShort": "f491ec15f",
+    "commitDate": "2026-08-18T23:30:55+08:00",
+    "category": "fun"
+  },
+  "source": {
+    "pluginsDir": "data/plugins/*.yml",
+    "scanned": 1411,
+    "category": "fun",
+    "unparsed": []
+  },
+  "entries": [
+    {
+      "slug": "609476965__dsh-LorebookMD",
+      "name": "609476965/dsh-LorebookMD",
+      "owner": "609476965",
+      "repo": "https://github.com/609476965/dsh-LorebookMD",
+      "repoPath": null,
+      "url": "https://github.com/609476965/dsh-LorebookMD",
+      "category": "fun",
+      "description": {
+        "en": "Import SillyTavern/TavernAI character cards and world books, save them as local Markdown lore documents, and generate novel prose from your prompts with the world settings as reference.",
+        "zh": "导入酒馆（SillyTavern/TavernAI）角色卡与世界书，落地为本地 Markdown 设定文档，激活创作模式后根据用户输入、参考世界书创作小说。"
+      },
+      "npm": null,
+      "stars": 15,
+      "addedAt": "2026-08-14"
+    },
+    {
+      "slug": "Aik358__dsh-draw-gacha",
+      "name": "Aik358/dsh-draw-gacha",
+      "owner": "Aik358",
+      "repo": "https://github.com/Aik358/dsh-draw-gacha",
+      "repoPath": null,
+      "url": "https://github.com/Aik358/dsh-draw-gacha",
+      "category": "fun",
+      "description": {
+        "en": "Pull a 3D lever next to the send button and turn the model's reasoning signals into a pixel-art gacha reveal.",
+        "zh": "在发送按钮旁拉动 3D 拉杆，把模型思维链的文本信号变成一场像素风抽卡演出。"
+      },
+      "npm": {
+        "name": "@a9i5k4/dsh-draw-gacha",
+        "version": "0.1.6"
+      },
+      "stars": null,
+      "addedAt": null
+    },
+    {
+      "slug": "AmeKrance__anan-thermal-monitor",
+      "name": "AmeKrance/anan-thermal-monitor",
+      "owner": "AmeKrance",
+      "repo": "https://github.com/AmeKrance/anan-thermal-monitor",
+      "repoPath": null,
+      "url": "https://github.com/AmeKrance/anan-thermal-monitor",
+      "category": "fun",
+      "description": {
+        "en": "Purple-white desktop pet that docks to the screen edge and shows real-time CPU, RAM, GPU and NVMe temperatures with hardware info.",
+        "zh": "紫白桌宠悬浮球，贴边停靠实时显示 CPU/内存/GPU/NVMe 温度与硬件信息。"
+      },
+      "npm": null,
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "AnacondaKC__dsh-douyin",
+      "name": "AnacondaKC/dsh-douyin",
+      "owner": "AnacondaKC",
+      "repo": "https://github.com/AnacondaKC/dsh-douyin",
+      "repoPath": null,
+      "url": "https://github.com/AnacondaKC/dsh-douyin",
+      "category": "fun",
+      "description": {
+        "en": "Short-video sidebar: native player, series navigation, precise history replay.",
+        "zh": "侧栏短视频：原生播放器、系列导航、精确历史回放。"
+      },
+      "npm": null,
+      "stars": 4,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "AnacondaKC__dsh-stock-market",
+      "name": "AnacondaKC/dsh-stock-market",
+      "owner": "AnacondaKC",
+      "repo": "https://github.com/AnacondaKC/dsh-stock-market",
+      "repoPath": null,
+      "url": "https://github.com/AnacondaKC/dsh-stock-market",
+      "category": "fun",
+      "description": {
+        "en": "Fixes the bug where your account can't lose money while you code.",
+        "zh": "有效解决了写代码的时候账户不能同时亏钱的 BUG。"
+      },
+      "npm": null,
+      "stars": 15,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "Awu12277__dsh-stock-watch",
+      "name": "Awu12277/dsh-stock-watch",
+      "owner": "Awu12277",
+      "repo": "https://github.com/Awu12277/dsh-stock-watch",
+      "repoPath": null,
+      "url": "https://github.com/Awu12277/dsh-stock-watch",
+      "category": "fun",
+      "description": {
+        "en": "A-share watchlist real-time market monitoring plugin: a collapsible popup in the top-right corner of the DeepSeek Harness (DSH) web interface for real-time quote monitoring, group switching, intraday and candlestick (K-line) charts, and buy/sell target price settings.",
+        "zh": "A 股自选股实时行情盯盘插件：在 DeepSeek Harness（DSH）Web 界面的右上角显示一个可折叠弹窗，实时监控自选股行情、切换分组、查看分时与 K 线、设置买卖目标价。"
+      },
+      "npm": null,
+      "stars": 47,
+      "addedAt": "2026-08-15"
+    },
+    {
+      "slug": "Bob-Bo1__dsh-stock-watch",
+      "name": "Bob-Bo1/dsh-stock-watch",
+      "owner": "Bob-Bo1",
+      "repo": "https://github.com/Bob-Bo1/dsh-stock-watch",
+      "repoPath": null,
+      "url": "https://github.com/Bob-Bo1/dsh-stock-watch",
+      "category": "fun",
+      "description": {
+        "en": "Local-first A-share portfolio and watchlist monitor for DSH: sidebar quotes, holdings P&L, browser add/edit/delete, and JSON persistence.",
+        "zh": "DSH 本地优先的 A 股持仓与自选监控：侧栏行情、持仓盈亏，以及网页添加、修改、删除和 JSON 保存。"
+      },
+      "npm": null,
+      "stars": null,
+      "addedAt": null
+    },
+    {
+      "slug": "DamonKoy__dsh-web-ui--packages-dsh-pet",
+      "name": "DamonKoy/dsh-web-ui#dsh-pet",
+      "owner": "DamonKoy",
+      "repo": "https://github.com/DamonKoy/dsh-web-ui",
+      "repoPath": "packages/dsh-pet",
+      "url": "https://github.com/DamonKoy/dsh-web-ui/tree/main/packages/dsh-pet",
+      "category": "fun",
+      "description": {
+        "en": "Multi-pet companion for the dsh web GUI: a registry-driven floating pet that reacts to model activity.",
+        "zh": "dsh web GUI 多桌宠伴侣：注册表驱动的悬浮宠物，随模型活动实时反应。"
+      },
+      "npm": null,
+      "stars": 3,
+      "addedAt": null
+    },
+    {
+      "slug": "Gin-7__dsh-pet-remielle",
+      "name": "Gin-7/dsh-pet-remielle",
+      "owner": "Gin-7",
+      "repo": "https://github.com/Gin-7/dsh-pet-remielle",
+      "repoPath": null,
+      "url": "https://github.com/Gin-7/dsh-pet-remielle",
+      "category": "fun",
+      "description": {
+        "en": "A Remielle(ZZZ) desktop pet for the dsh web GUI that switches animated sticker moods with the harness work state.",
+        "zh": "蕾米埃尔(绝区零)桌宠：随 DSH 工作状态切换动画表情。"
+      },
+      "npm": {
+        "name": "dsh-pet-remielle",
+        "version": "0.4.4"
+      },
+      "stars": 17,
+      "addedAt": null
+    },
+    {
+      "slug": "HuanLinOTO__dsh-plugin-d399",
+      "name": "HuanLinOTO/dsh-plugin-d399",
+      "owner": "HuanLinOTO",
+      "repo": "https://github.com/HuanLinOTO/dsh-plugin-d399",
+      "repoPath": null,
+      "url": "https://github.com/HuanLinOTO/dsh-plugin-d399",
+      "category": "fun",
+      "description": {
+        "en": "Pops up a mini-game menu (wordle, match-3, extensible) while the model generates.",
+        "zh": "模型生成时弹出小游戏菜单（wordle/消消乐，可扩展）。"
+      },
+      "npm": null,
+      "stars": 8,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "JAdpp__dsh-whale-galgame",
+      "name": "JAdpp/dsh-whale-galgame",
+      "owner": "JAdpp",
+      "repo": "https://github.com/JAdpp/dsh-whale-galgame",
+      "repoPath": null,
+      "url": "https://github.com/JAdpp/dsh-whale-galgame",
+      "category": "fun",
+      "description": {
+        "en": "Multi-character Galgame conversation view with separate character and reply-model selection, per-character affection, memory, dialogue history, and CG galleries, plus responses informed by task events across Harness sessions.",
+        "zh": "多角色 Galgame 对话界面：角色与回复模型可独立切换，分角色保存好感度、记忆、对话历史与 CG 图鉴，并根据 Harness 跨会话任务事件做出角色回应。"
+      },
+      "npm": {
+        "name": "dsh-whale-galgame",
+        "version": "0.4.1"
+      },
+      "stars": 6,
+      "addedAt": null
+    },
+    {
+      "slug": "KongChengZhi__dsh-pixel-studio--dsh-cli-anything-aseprite",
+      "name": "KongChengZhi/dsh-pixel-studio#dsh-cli-anything-aseprite",
+      "owner": "KongChengZhi",
+      "repo": "https://github.com/KongChengZhi/dsh-pixel-studio",
+      "repoPath": "dsh-cli-anything-aseprite",
+      "url": "https://github.com/KongChengZhi/dsh-pixel-studio/tree/main/dsh-cli-anything-aseprite",
+      "category": "fun",
+      "description": {
+        "en": "Aseprite-style pixel art studio: the AI draws sprites stroke by stroke with selections, layers, animation frames, gradients, symmetry and reference layers, each step rendered live as ANSI terminal frames.",
+        "zh": "Aseprite 风格像素画工作室：AI 像人类一样分步绘制精灵，支持选区、图层、动画帧、渐变、对称、参考层与 rgb16 4096 色，每一步实时渲染为 ANSI 终端帧。"
+      },
+      "npm": null,
+      "stars": 0,
+      "addedAt": null
+    },
+    {
+      "slug": "Moeblack__deepseek-manners",
+      "name": "Moeblack/deepseek-manners",
+      "owner": "Moeblack",
+      "repo": "https://github.com/Moeblack/deepseek-manners",
+      "repoPath": null,
+      "url": "https://github.com/Moeblack/deepseek-manners",
+      "category": "fun",
+      "description": {
+        "en": "Append a thank-you note after every message. Mind your manners.",
+        "zh": "给每次消息后注入感谢语，做个有礼貌的人。"
+      },
+      "npm": null,
+      "stars": 13,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "Nagi-ovo__dsh-ads",
+      "name": "Nagi-ovo/dsh-ads",
+      "owner": "Nagi-ovo",
+      "repo": "https://github.com/Nagi-ovo/dsh-ads",
+      "repoPath": null,
+      "url": "https://github.com/Nagi-ovo/dsh-ads",
+      "category": "fun",
+      "description": {
+        "en": "Parody ads in 2005-Chinese-web style: sidebar banners, in-chat feeds, corner popups, and a close button whose hit area is smaller than it looks. All fictional.",
+        "zh": "2005 年中文站点风格的整活广告插件：侧栏广告/信息流/角落弹窗 + 假关闭叉，素材全虚构。"
+      },
+      "npm": {
+        "name": "@nagi-ovo/dsh-ads",
+        "version": "0.1.1"
+      },
+      "stars": 494,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "Nanki-nn__dsh-answer-pet",
+      "name": "Nanki-nn/dsh-answer-pet",
+      "owner": "Nanki-nn",
+      "repo": "https://github.com/Nanki-nn/dsh-answer-pet",
+      "repoPath": null,
+      "url": "https://github.com/Nanki-nn/dsh-answer-pet",
+      "category": "fun",
+      "description": {
+        "en": "Extensible animated response pet with blue-whale, orange-cat, and silver-shaded-cat themes, per-session progress, model and tool-call traces, token counts, output speed, elapsed time, and collapsible multi-session status cards.",
+        "zh": "可扩展回答状态宠物，内置蓝鲸、橘猫和银渐层猫主题；按会话实时展示回答进度、模型动作与工具调用轨迹、token、输出速率与耗时，并支持多会话状态卡片展开和收起。"
+      },
+      "npm": null,
+      "stars": 9,
+      "addedAt": "2026-08-14"
+    },
+    {
+      "slug": "PC2005-cloud__dsh-pet--dsh-pet",
+      "name": "PC2005-cloud/dsh-pet#dsh-pet",
+      "owner": "PC2005-cloud",
+      "repo": "https://github.com/PC2005-cloud/dsh-pet",
+      "repoPath": "dsh-pet",
+      "url": "https://github.com/PC2005-cloud/dsh-pet/tree/main/dsh-pet",
+      "category": "fun",
+      "description": {
+        "en": "Desktop pet for the DSH Web UI with 25 transparent animations, screen wandering, click reactions and drag, plus a reproducible asset-generation pipeline.",
+        "zh": "DSH Web UI 桌面宠物：25 个透明动画、屏幕漫游、点击反应与拖拽，附可复现的素材生成链。"
+      },
+      "npm": {
+        "name": "dsh-pet",
+        "version": "0.2.12"
+      },
+      "stars": 125,
+      "addedAt": "2026-08-14"
+    },
+    {
+      "slug": "PM25000__dsh-ths-holdings",
+      "name": "PM25000/dsh-ths-holdings",
+      "owner": "PM25000",
+      "repo": "https://github.com/PM25000/dsh-ths-holdings",
+      "repoPath": null,
+      "url": "https://github.com/PM25000/dsh-ths-holdings",
+      "category": "fun",
+      "description": {
+        "en": "Floating card showing your real position P&L (今日盈亏), Shanghai Composite Index, and intraday chart, auto-synced from the Tonghuashun investment-ledger — no manual watchlist setup.",
+        "zh": "悬浮卡片，自动同步同花顺投资账本的真实持仓盈亏，显示今日盈亏、上证指数和当日走势图，无需手动添加股票。"
+      },
+      "npm": {
+        "name": "dsh-ths-holdings",
+        "version": "0.2.0"
+      },
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "Rain-Shuoyu__dsh-client-deep-sneak",
+      "name": "Rain-Shuoyu/dsh-client-deep-sneak",
+      "owner": "Rain-Shuoyu",
+      "repo": "https://github.com/Rain-Shuoyu/dsh-client-deep-sneak",
+      "repoPath": null,
+      "url": "https://github.com/Rain-Shuoyu/dsh-client-deep-sneak",
+      "category": "fun",
+      "description": {
+        "en": "Slacking-off companion: a floating mini player that streams Bilibili videos (native player, danmaku, comments, search) and pauses when your agent needs you, resuming exactly where you left off.",
+        "zh": "摸鱼伴侣：右下角小窗播放 B站视频（原生播放器/弹幕/评论/搜索），agent 需要你时自动暂停提醒，处理完从原位置精确续播。"
+      },
+      "npm": {
+        "name": "dsh-client-deep-sneak",
+        "version": "0.12.0"
+      },
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "Signalight__codex-to-dsh-pet--packages-dsh-codex-pet",
+      "name": "Signalight/codex-to-dsh-pet#dsh-codex-pet",
+      "owner": "Signalight",
+      "repo": "https://github.com/Signalight/codex-to-dsh-pet",
+      "repoPath": "packages/dsh-codex-pet",
+      "url": "https://github.com/Signalight/codex-to-dsh-pet/tree/main/packages/dsh-codex-pet",
+      "category": "fun",
+      "description": {
+        "en": "DSH web-GUI pet runtime that renders any Codex spritesheet-atlas pet (v1/v2) as a draggable overlay: drag/wave/jump, v2 mouse-tracking eyes that follow the active mouse, live agent-status poses, progress bubbles, and an in-GUI atlas importer; ships one original CC BY-NC demo pet (nastya), and user pets live in ~/.dsh/pets.",
+        "zh": "DSH 网页 GUI 实时桌宠：可把任何 Codex 桌宠图集（webp/png/gif，v1/v2 自动识别）转换为 DSH 中可拖拽的悬浮桌宠。支持拖拽/挥手/跳跃，v2 桌宠的眼睛实时追踪活动鼠标，随 agent 状态切换姿势；进度气泡反映工作状态；「设置 → 桌宠」图形界面可导入、切换与调整桌宠；内置一只原创示例桌宠（娜斯佳），用户桌宠存放在 ~/.dsh/pets。"
+      },
+      "npm": {
+        "name": "@signalight/dsh-codex-pet",
+        "version": "0.3.1"
+      },
+      "stars": 4,
+      "addedAt": null
+    },
+    {
+      "slug": "Sutera-Diffusus__dsh-whale-musume",
+      "name": "Sutera-Diffusus/dsh-whale-musume",
+      "owner": "Sutera-Diffusus",
+      "repo": "https://github.com/Sutera-Diffusus/dsh-whale-musume",
+      "repoPath": null,
+      "url": "https://github.com/Sutera-Diffusus/dsh-whale-musume",
+      "category": "fun",
+      "description": {
+        "en": "A cute whale-girl desktop pet for the DeepSeek Harness Web UI: pat-to-raise growth, live work-state poses, 494 dialogue lines, 30 achievements and a built-in settings panel — all local, zero telemetry.",
+        "zh": "元气鲸鱼娘桌宠：摸头养成、工作状态联动、494 条台词与 30 项成就，自带设置面板，全本地零遥测。"
+      },
+      "npm": null,
+      "stars": 14,
+      "addedAt": null
+    },
+    {
+      "slug": "THEWOLFWALKER__dsh-coyote",
+      "name": "THEWOLFWALKER/dsh-coyote",
+      "owner": "THEWOLFWALKER",
+      "repo": "https://github.com/THEWOLFWALKER/dsh-coyote",
+      "repoPath": null,
+      "url": "https://github.com/THEWOLFWALKER/dsh-coyote",
+      "category": "fun",
+      "description": {
+        "en": "Agent- and GUI-controlled DG-LAB Coyote e-stim plugin: eight `coyote_*` tools plus a DSH web panel behind one safety envelope (soft limits, asymmetric rate limiter, session cooldown, playback caps, disconnect fail-safe); optional auto-stim layer maps agent events (tool calls, errors, turn end) to bounded pulses; official V3 socket protocol with QR pairing, programmable waveforms. Adults only.",
+        "zh": "Agent 与网页 GUI 双面控制的 DG-LAB 郊狼（Coyote）电击/电刺激插件：八个 `coyote_*` 工具 + DSH 网页面板，共用同一安全边界（软上限、非对称升速限流、会话冷却、播放硬上限、断连即停）；v0.2 起可选自动电击层，把 agent 事件（工具调用/报错/回合结束）映射为有界脉冲；官方 V3 socket 协议 + 二维码配对、可编程波形。仅限成年人。"
+      },
+      "npm": {
+        "name": "dsh-coyote",
+        "version": "0.2.0"
+      },
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "Tisitan__dsh-live2d-companion",
+      "name": "Tisitan/dsh-live2d-companion",
+      "owner": "Tisitan",
+      "repo": "https://github.com/Tisitan/dsh-live2d-companion",
+      "repoPath": null,
+      "url": "https://github.com/Tisitan/dsh-live2d-companion",
+      "category": "fun",
+      "description": {
+        "en": "Live2D desk pet for DSH: 8-state AI status lamp, web widget, and always-on-top transparent Electron pet window with expressions, motions, and chat bubbles.",
+        "zh": "DSH 的 Live2D 桌宠：8 态 AI 状态灯 + 网页挂件 + 置顶透明 Electron 桌宠窗，表情/动作/气泡齐全，换模型自动适配。"
+      },
+      "npm": null,
+      "stars": 4,
+      "addedAt": null
+    },
+    {
+      "slug": "WJNCT55555__dsh-achievements",
+      "name": "WJNCT55555/dsh-achievements",
+      "owner": "WJNCT55555",
+      "repo": "https://github.com/WJNCT55555/dsh-achievements",
+      "repoPath": null,
+      "url": "https://github.com/WJNCT55555/dsh-achievements",
+      "category": "fun",
+      "description": {
+        "en": "Achievement system for the DSH Web UI: gallery with category/rarity sorting, unlock toasts, sidebar trophy, composer dock, crossover achievements, and local persistence.",
+        "zh": "DSH Web 成就系统：画廊支持按分类/难度双排序、解锁 toast、侧栏奖杯、输入坞进度读条、联动成就，并本地持久化进度。"
+      },
+      "npm": null,
+      "stars": 0,
+      "addedAt": null
+    },
+    {
+      "slug": "chen731215-dev__-",
+      "name": "chen731215-dev/-",
+      "owner": "chen731215-dev",
+      "repo": "https://github.com/chen731215-dev/-",
+      "repoPath": null,
+      "url": "https://github.com/chen731215-dev/-",
+      "category": "fun",
+      "description": {
+        "en": "Native tavern management panel for DeepSeek Harness: multiple character cards, multiple worldbooks, switchable presets.",
+        "zh": "酒馆管理原生面板：多角色卡、多世界书、可切换预设，深浅色跟随，点侧边栏自动关闭。"
+      },
+      "npm": null,
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "cipher2026__dsh-idle-deepcompute",
+      "name": "cipher2026/dsh-idle-deepcompute",
+      "owner": "cipher2026",
+      "repo": "https://github.com/cipher2026/dsh-idle-deepcompute",
+      "repoPath": null,
+      "url": "https://github.com/cipher2026/dsh-idle-deepcompute",
+      "category": "fun",
+      "description": {
+        "en": "Terminal-style AI-lab idle game where you hoard compute, train and upgrade models, publish papers, and prestige from neural nets to ASI.",
+        "zh": "终端风 AI 实验室挂机游戏：攒算力、训练升级模型、发论文，一路转生到 AGI/ASI。"
+      },
+      "npm": null,
+      "stars": 0,
+      "addedAt": null
+    },
+    {
+      "slug": "eric-song-dev__dsh-ikun-pet",
+      "name": "eric-song-dev/dsh-ikun-pet",
+      "owner": "eric-song-dev",
+      "repo": "https://github.com/eric-song-dev/dsh-ikun-pet",
+      "repoPath": null,
+      "url": "https://github.com/eric-song-dev/dsh-ikun-pet",
+      "category": "fun",
+      "description": {
+        "en": "An ikun (basketball meme) pet that fills the dock under the \"Deep diving...\" status row during replies: a sprite-sheet pet walks a 0→100% progress bar, switching animation and text every 20%, and plays a system-level \"nǐ gàn ma~\" voice cue at completion.",
+        "zh": "ikun 桌宠填满「Deep diving...」状态行下方整行区块：坤宠动图沿 0%→100% 进度条行走，每 20% 切换动作与文案，完成时系统级播放「你干嘛~哎哟」提示音。"
+      },
+      "npm": {
+        "name": "dsh-ikun-pet",
+        "version": "2.2.0"
+      },
+      "stars": 8,
+      "addedAt": null
+    },
+    {
+      "slug": "falser101__dsh-mascot",
+      "name": "falser101/dsh-mascot",
+      "owner": "falser101",
+      "repo": "https://github.com/falser101/dsh-mascot",
+      "repoPath": null,
+      "url": "https://github.com/falser101/dsh-mascot",
+      "category": "fun",
+      "description": {
+        "en": "Draggable floating cat-or-dog companion for the dsh web GUI that changes expression with the session and is configured on a Companion settings page.",
+        "zh": "可拖拽的猫狗悬浮伴侣，表情随当前会话变化，在 Companion 设置页里换皮肤。"
+      },
+      "npm": {
+        "name": "@falser101/mascot",
+        "version": "0.1.0"
+      },
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "hellodigua__dsh-emoji",
+      "name": "hellodigua/dsh-emoji",
+      "owner": "hellodigua",
+      "repo": "https://github.com/hellodigua/dsh-emoji",
+      "repoPath": null,
+      "url": "https://github.com/hellodigua/dsh-emoji",
+      "category": "fun",
+      "description": {
+        "en": "Automatically add emojis to AI replies.",
+        "zh": "为 AI 回复自动添加表情。"
+      },
+      "npm": {
+        "name": "dsh-emoji",
+        "version": "0.3.4"
+      },
+      "stars": 24,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "hellosky983__dsh-mc-agent",
+      "name": "hellosky983/dsh-mc-agent",
+      "owner": "hellosky983",
+      "repo": "https://github.com/hellosky983/dsh-mc-agent",
+      "repoPath": null,
+      "url": "https://github.com/hellosky983/dsh-mc-agent",
+      "category": "fun",
+      "description": {
+        "en": "AI-assisted Minecraft for DeepSeek Harness: drive an autonomous Mineflayer agent (survival, mining, chat, live map) with vision/control tools, plus a built-in launcher (Microsoft sign-in, version download, game launch).",
+        "zh": "面向 DeepSeek Harness 的 AI 辅助 Minecraft：驱动自主的 Mineflayer 代理（生存、挖矿、聊天、实时地图）与视觉/控制工具，另内置启动器（微软登录、版本下载、游戏启动）。"
+      },
+      "npm": null,
+      "stars": 6,
+      "addedAt": null
+    },
+    {
+      "slug": "hellosz__dsh-pets",
+      "name": "hellosz/dsh-pets",
+      "owner": "hellosz",
+      "repo": "https://github.com/hellosz/dsh-pets",
+      "repoPath": null,
+      "url": "https://github.com/hellosz/dsh-pets",
+      "category": "fun",
+      "description": {
+        "en": "Codex Pets-style floating pixel pet with 10 built-in Petdex-compatible pets, a 9-state agent-status engine (idle/running/waiting/review/failed plus client-side waving/jumping/directions), draggable overlay, pet picker/zoom settings, notification bubbles, and a `pet_say` tool for the agent to speak through the pet.",
+        "zh": "Codex Pets 风格浮动像素桌宠：内置 10 只 Petdex 兼容宝可梦伙伴，9 状态 agent 状态机（空闲/思考/等待/审查/出错 + 客户端挥手/跳跃/方向动画），可拖拽悬浮、宠物切换与缩放设置、通知气泡，以及 agent 可用的 `pet_say` 工具。"
+      },
+      "npm": {
+        "name": "@hellosz/dsh-pets",
+        "version": "0.3.1"
+      },
+      "stars": 4,
+      "addedAt": null
+    },
+    {
+      "slug": "jitengfei__dsh-whale-arcade",
+      "name": "jitengfei/dsh-whale-arcade",
+      "owner": "jitengfei",
+      "repo": "https://github.com/jitengfei/dsh-whale-arcade",
+      "repoPath": null,
+      "url": "https://github.com/jitengfei/dsh-whale-arcade",
+      "category": "fun",
+      "description": {
+        "en": "Floating, browser-local whale arcade with three score games and ocean-themed Gomoku for breaks while waiting on the agent.",
+        "zh": "浏览器本地运行的悬浮鲸鱼游戏中心，包含三款积分游戏和海洋主题五子棋，适合等待 Agent 时随手游玩。"
+      },
+      "npm": {
+        "name": "dsh-whale-arcade",
+        "version": "0.1.0"
+      },
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "lhh010__dsh-minigames",
+      "name": "lhh010/dsh-minigames",
+      "owner": "lhh010",
+      "repo": "https://github.com/lhh010/dsh-minigames",
+      "repoPath": null,
+      "url": "https://github.com/lhh010/dsh-minigames",
+      "category": "fun",
+      "description": {
+        "en": "Side-panel arcade: 18 offline mini-games to play while the model thinks.",
+        "zh": "右侧小游戏面板：18 款离线小游戏，等模型回复时的摸鱼神器。"
+      },
+      "npm": null,
+      "stars": 23,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "lucky8197__dsh-devquest",
+      "name": "lucky8197/dsh-devquest",
+      "owner": "lucky8197",
+      "repo": "https://github.com/lucky8197/dsh-devquest",
+      "repoPath": null,
+      "url": "https://github.com/lucky8197/dsh-devquest",
+      "category": "fun",
+      "description": {
+        "en": "Turns coding into an RPG: finished turns, tool calls and completed todos earn XP, with 27+ achievement badges, levels, titles and seasons. Event-driven scoring with a pure-function engine — the work itself is the game.",
+        "zh": "把开发变成 RPG：回合/工具/todo 积累 XP、27+ 成就徽章、等级与赛季。事件流驱动、纯函数计分——你的工作就是游戏。"
+      },
+      "npm": {
+        "name": "dsh-devquest",
+        "version": "1.3.0"
+      },
+      "stars": 3,
+      "addedAt": null
+    },
+    {
+      "slug": "luumod__dsh-achievements",
+      "name": "luumod/dsh-achievements",
+      "owner": "luumod",
+      "repo": "https://github.com/luumod/dsh-achievements",
+      "repoPath": null,
+      "url": "https://github.com/luumod/dsh-achievements",
+      "category": "fun",
+      "description": {
+        "en": "Achievement and gamification plugin: unlock badges for turns, tool calls, sessions, daily streaks and coding behavior (edits/reads/tests), with a badge wall, unlock toasts and a ctx.achievements SDK.",
+        "zh": "成就与游戏化插件：按回合、工具调用、会话、连续天数与编码行为（编辑/读取/测试）解锁徽章，带徽章墙、解锁 toast 与 ctx.achievements SDK。"
+      },
+      "npm": null,
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "marvin9551__dynamic-schulte-dsh",
+      "name": "marvin9551/dynamic-schulte-dsh",
+      "owner": "marvin9551",
+      "repo": "https://github.com/marvin9551/dynamic-schulte-dsh",
+      "repoPath": null,
+      "url": "https://github.com/marvin9551/dynamic-schulte-dsh",
+      "category": "fun",
+      "description": {
+        "en": "Dynamic Schulte grid waiting-time mini-game: click 1..N in order on a static grid or a spinning roulette wheel while the model thinks.",
+        "zh": "动态舒尔特方格等待小游戏：模型思考时，在静态网格或旋转轮盘上按顺序点击 1..N，边玩边等。"
+      },
+      "npm": null,
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "miku00039-01__dsh-whale-pet",
+      "name": "miku00039-01/dsh-whale-pet",
+      "owner": "miku00039-01",
+      "repo": "https://github.com/miku00039-01/dsh-whale-pet",
+      "repoPath": null,
+      "url": "https://github.com/miku00039-01/dsh-whale-pet",
+      "category": "fun",
+      "description": {
+        "en": "A Windows desktop pet for DeepSeek Harness — launch, stop and monitor the DSH service and summon the GUI with a whale.",
+        "zh": "DeepSeek Harness 的鲸鱼娘桌面宠物，一键启动/停止/监测服务，双击唤起 GUI。"
+      },
+      "npm": {
+        "name": "@miku00039-01/dsh-whale-pet",
+        "version": "1.14.0"
+      },
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "minybear__DeepSeek-Harness-Pet",
+      "name": "minybear/DeepSeek-Harness-Pet",
+      "owner": "minybear",
+      "repo": "https://github.com/minybear/DeepSeek-Harness-Pet",
+      "repoPath": null,
+      "url": "https://github.com/minybear/DeepSeek-Harness-Pet",
+      "category": "fun",
+      "description": {
+        "en": "Codex-style desktop pet: a floating animated sprite in the corner that mirrors the agent's running state (working, waiting, failed, done).",
+        "zh": "Codex 风格桌面宠物：右下角悬浮动画精灵，随 agent 运行状态实时变化（工作、等待、报错、完成）。"
+      },
+      "npm": null,
+      "stars": 6,
+      "addedAt": "2026-08-14"
+    },
+    {
+      "slug": "nzl153__dsh-pet-whale",
+      "name": "nzl153/dsh-pet-whale",
+      "owner": "nzl153",
+      "repo": "https://github.com/nzl153/dsh-pet-whale",
+      "repoPath": null,
+      "url": "https://github.com/nzl153/dsh-pet-whale",
+      "category": "fun",
+      "description": {
+        "en": "Desktop pet drawn from the official whale outline: pure-SVG animation follows agent state (thinking, working, celebrating, error), with poke and double-click flip interactions, cursor avoidance, 7 palettes, light/dark theme sync, and a playable web preview.",
+        "zh": "官方鲸鱼轮廓的桌宠：纯 SVG 动画随 agent 状态切换（思考／工作／完成／报错），可戳可拖、双击翻滚，光标停留在身侧会自己避让，7 套色板并跟随亮暗主题，附网页预览可直接试玩。"
+      },
+      "npm": {
+        "name": "pet-whale",
+        "version": "1.2.5"
+      },
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "omdsh-dev__dsh-auto-chess",
+      "name": "omdsh-dev/dsh-auto-chess",
+      "owner": "omdsh-dev",
+      "repo": "https://github.com/omdsh-dev/dsh-auto-chess",
+      "repoPath": null,
+      "url": "https://github.com/omdsh-dev/dsh-auto-chess",
+      "category": "fun",
+      "description": {
+        "en": "Auto chess: human vs AI, or AI vs AI.",
+        "zh": "自走棋：人机对战或双 AI 对弈。"
+      },
+      "npm": null,
+      "stars": 3,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "omdsh-dev__dsh-gomoku",
+      "name": "omdsh-dev/dsh-gomoku",
+      "owner": "omdsh-dev",
+      "repo": "https://github.com/omdsh-dev/dsh-gomoku",
+      "repoPath": null,
+      "url": "https://github.com/omdsh-dev/dsh-gomoku",
+      "category": "fun",
+      "description": {
+        "en": "Play Gomoku against the AI, or let two AIs battle it out.",
+        "zh": "与 AI 下五子棋，也可让 AI 对局比棋力。"
+      },
+      "npm": {
+        "name": "@yejiming/dsh-gomoku",
+        "version": "0.0.1"
+      },
+      "stars": 13,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "ovdoesw__dsh-xiangqi",
+      "name": "ovdoesw/dsh-xiangqi",
+      "owner": "ovdoesw",
+      "repo": "https://github.com/ovdoesw/dsh-xiangqi",
+      "repoPath": null,
+      "url": "https://github.com/ovdoesw/dsh-xiangqi",
+      "category": "fun",
+      "description": {
+        "en": "A draggable mascot invites you to play Xiangqi (Chinese chess) while the AI thinks, with a built-in engine, move-record export, and optional multi-model commentary.",
+        "zh": "卡通小宠物邀请你在 AI 思考间隙下中国象棋：内置引擎、走子记谱导出、可选多模型局势点评。"
+      },
+      "npm": null,
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "potoior__dsh-bull-bear",
+      "name": "potoior/dsh-bull-bear",
+      "owner": "potoior",
+      "repo": "https://github.com/potoior/dsh-bull-bear",
+      "repoPath": null,
+      "url": "https://github.com/potoior/dsh-bull-bear",
+      "category": "fun",
+      "description": {
+        "en": "Real-time quote bull/bear desk pet for DSH: a portfolio-average-driven pet that runs faster and jumps higher the closer gains reach 20%, with a watchlist panel for searching and adding stocks plus a live \"race\" of how each holding is moving.",
+        "zh": "DSH 的实时行情牛熊桌宠：由自选组合平均涨跌驱动，收益越接近 20% 跑得越猛；带自选面板可搜索添加股票，还有展示每只标的涨跌的实时赛跑。"
+      },
+      "npm": {
+        "name": "dsh-bull-bear",
+        "version": "0.1.2"
+      },
+      "stars": null,
+      "addedAt": null
+    },
+    {
+      "slug": "qimidandapigu__dsh-xiaotangyuan-game--apps-harness-plugin",
+      "name": "单机游戏内 AI 同伴「小汤圆」",
+      "owner": "qimidandapigu",
+      "repo": "https://github.com/qimidandapigu/dsh-xiaotangyuan-game",
+      "repoPath": "apps/harness-plugin",
+      "url": "https://github.com/qimidandapigu/dsh-xiaotangyuan-game/tree/main/apps/harness-plugin",
+      "category": "fun",
+      "description": {
+        "en": "XiaoTangYuan, an in-game AI companion for single-player games: understands the game screen, chats by text or push-to-talk, and speaks replies aloud; Stardew Valley is supported, with Don't Starve Together and Oxygen Not Included integrations in progress.",
+        "zh": "单机游戏内 AI 同伴「小汤圆」：理解游戏画面，支持文字或按住说话交流并语音回复；现已支持《星露谷物语》，《饥荒联机版》和《缺氧》正在迁移接入。"
+      },
+      "npm": null,
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "says693__dsh-log-memory",
+      "name": "says693/dsh-log-memory",
+      "owner": "says693",
+      "repo": "https://github.com/says693/dsh-log-memory",
+      "repoPath": null,
+      "url": "https://github.com/says693/dsh-log-memory",
+      "category": "fun",
+      "description": {
+        "en": "Popup guardian for session logs: opens with the Web UI on a configurable reminder interval (10 min-3 h), with one-click incremental backup of every session.jsonl(.zstd) under ~/.dsh/sessions in raw or readable chat-log format.",
+        "zh": "会话日志守护弹窗：打开 Web 即提醒（间隔 10 分钟至 3 小时可调），一键增量备份 ~/.dsh/sessions 全部 session.jsonl(.zstd)，可选原始压缩或可读聊天记录两种格式，弹窗内可选备份文件夹。"
+      },
+      "npm": null,
+      "stars": 3,
+      "addedAt": null
+    },
+    {
+      "slug": "sjh9714__clippy-harness--plugin",
+      "name": "sjh9714/clippy-harness#plugin",
+      "owner": "sjh9714",
+      "repo": "https://github.com/sjh9714/clippy-harness",
+      "repoPath": "plugin",
+      "url": "https://github.com/sjh9714/clippy-harness/tree/master/plugin",
+      "category": "fun",
+      "description": {
+        "en": "Clippy is back and this time he can actually help. An office assistant pet that reacts to real agent state, jumps when the turn completes, and opens a classic \"illegal operation\" dialog when a turn fails.",
+        "zh": "回形针助手回来了，这次它真的会干活：会对真实 agent 状态做出反应的办公助手宠物，任务完成时跳起来庆祝，回合失败时弹出经典的 \"illegal operation\" 对话框。"
+      },
+      "npm": null,
+      "stars": 0,
+      "addedAt": "2026-08-15"
+    },
+    {
+      "slug": "skiuniverse__dsh-running-liang",
+      "name": "skiuniverse/dsh-running-liang",
+      "owner": "skiuniverse",
+      "repo": "https://github.com/skiuniverse/dsh-running-liang",
+      "repoPath": null,
+      "url": "https://github.com/skiuniverse/dsh-running-liang",
+      "category": "fun",
+      "description": {
+        "en": "A Chrome-dino-style runner for the DeepSeek Harness Web UI: play while the agent replies, score from 梁子 to 梁圣 on a persistent progress strip.",
+        "zh": "等待 Agent 回复时的恐龙快跑小游戏：常驻进度条从「梁子」冲向「梁圣」，折叠即暂停、任意键恢复。"
+      },
+      "npm": {
+        "name": "dsh-running-liang",
+        "version": "0.1.5"
+      },
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "skr311__dsh-codex-pet--packages-dsh-codex-pet",
+      "name": "skr311/dsh-codex-pet#dsh-codex-pet",
+      "owner": "skr311",
+      "repo": "https://github.com/skr311/dsh-codex-pet",
+      "repoPath": "packages/dsh-codex-pet",
+      "url": "https://github.com/skr311/dsh-codex-pet/tree/main/packages/dsh-codex-pet",
+      "category": "fun",
+      "description": {
+        "en": "Import Codex-style sprite-sheet pets and render them as a floating shell.overlay with a pet library, interactions, and agent-state linkage.",
+        "zh": "导入/上传 Codex 风格精灵图序列帧宠物，在 DSH Web GUI 以悬浮浮层渲染，含图库管理、交互与 Agent 状态联动。"
+      },
+      "npm": {
+        "name": "dsh-codex-pet",
+        "version": "0.3.1"
+      },
+      "stars": 5,
+      "addedAt": null
+    },
+    {
+      "slug": "swaylq__dsh-digipet",
+      "name": "swaylq/dsh-digipet",
+      "owner": "swaylq",
+      "repo": "https://github.com/swaylq/dsh-digipet",
+      "repoPath": null,
+      "url": "https://github.com/swaylq/dsh-digipet",
+      "category": "fun",
+      "description": {
+        "en": "Digimon-style raising game: hatch an egg that feeds on real work (turns, tool calls, errors) and evolves along four branching lines shaped by how you work; zero tokens, invisible to the model.",
+        "zh": "数码宝贝式养成：孵一颗吃真实工作长大的蛋（回合、工具调用、报错都是营养），按你的工作方式走四条进化分支；零 token，模型完全看不见。"
+      },
+      "npm": null,
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "swaylq__dsh-wildmon",
+      "name": "swaylq/dsh-wildmon",
+      "owner": "swaylq",
+      "repo": "https://github.com/swaylq/dsh-wildmon",
+      "repoPath": null,
+      "url": "https://github.com/swaylq/dsh-wildmon",
+      "category": "fun",
+      "description": {
+        "en": "Pokemon-style catch-em-all: your real work is the tall grass — turns, tool calls and errors spawn wild encounters; throw balls, fill a 28-slot dex, walk a team of six. Zero tokens, invisible to the model.",
+        "zh": "宝可梦式捕捉收集：真实工作就是草丛 —— 回合、工具调用、报错刷出野外遭遇；投球捕捉、集 28 格图鉴、带 6 只队伍。零 token，模型完全看不见。"
+      },
+      "npm": null,
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "txlznbzsdj-collab__dsh-deepseek-pet",
+      "name": "txlznbzsdj-collab/dsh-deepseek-pet",
+      "owner": "txlznbzsdj-collab",
+      "repo": "https://github.com/txlznbzsdj-collab/dsh-deepseek-pet",
+      "repoPath": null,
+      "url": "https://github.com/txlznbzsdj-collab/dsh-deepseek-pet",
+      "category": "fun",
+      "description": {
+        "en": "Animated DeepSeek blue-whale desktop pet floating on the DSH Web page: draggable with speech bubbles and mood poses, a pet_say tool for the model to make it talk, and turn-start/end thinking and celebrating states.",
+        "zh": "浮动在 DSH Web 页面上的 DeepSeek 蓝色小鲸鱼桌宠：可拖拽，说话气泡与心情姿势随互动切换，模型可调用 pet_say 工具让它开口，对话开始/结束时自动进入思考与庆祝状态。"
+      },
+      "npm": null,
+      "stars": 2,
+      "addedAt": null
+    },
+    {
+      "slug": "vlln__whale-girl",
+      "name": "vlln/whale-girl",
+      "owner": "vlln",
+      "repo": "https://github.com/vlln/whale-girl",
+      "repoPath": null,
+      "url": "https://github.com/vlln/whale-girl",
+      "category": "fun",
+      "description": {
+        "en": "Desktop pet (QQ-pet style): floats in the corner, draggable, feedable, playable.",
+        "zh": "桌面宠物（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍。"
+      },
+      "npm": {
+        "name": "whale-girl",
+        "version": "0.1.0"
+      },
+      "stars": 231,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "william-jin-cmu__dsh-stickers",
+      "name": "william-jin-cmu/dsh-stickers",
+      "owner": "william-jin-cmu",
+      "repo": "https://github.com/william-jin-cmu/dsh-stickers",
+      "repoPath": null,
+      "url": "https://github.com/william-jin-cmu/dsh-stickers",
+      "category": "fun",
+      "description": {
+        "en": "Bidirectional sticker reactions between user and agent.",
+        "zh": "用户与 agent 双向表情贴纸互动。"
+      },
+      "npm": null,
+      "stars": 20,
+      "addedAt": "2026-08-13"
+    },
+    {
+      "slug": "xczhanjun__lazeword",
+      "name": "xczhanjun/lazeword",
+      "owner": "xczhanjun",
+      "repo": "https://github.com/xczhanjun/lazeword",
+      "repoPath": null,
+      "url": "https://github.com/xczhanjun/lazeword",
+      "category": "fun",
+      "description": {
+        "en": "A cozy offline vocabulary trainer for the whole family: 1094 curated words, spaced repetition, 6 quiz types, spelling games and a lazy large-screen mode; opens as a sidebar panel and also runs standalone as one HTML file.",
+        "zh": "舒服的离线背单词全家桶：1094 个精选单词、间隔重复、6 种题型、拼写游戏和躺着背大字模式；侧边栏面板打开，也可作为单个 HTML 文件独立运行。"
+      },
+      "npm": {
+        "name": "dsh-lazeword",
+        "version": "0.2.0"
+      },
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "xiaoshihou514__dsh-desktop-pet",
+      "name": "xiaoshihou514/dsh-desktop-pet",
+      "owner": "xiaoshihou514",
+      "repo": "https://github.com/xiaoshihou514/dsh-desktop-pet",
+      "repoPath": null,
+      "url": "https://github.com/xiaoshihou514/dsh-desktop-pet",
+      "category": "fun",
+      "description": {
+        "en": "DSH pet, on the desktop!",
+        "zh": "鲸鱼娘桌宠，桌面端！"
+      },
+      "npm": null,
+      "stars": 12,
+      "addedAt": null
+    },
+    {
+      "slug": "xiekai886__dsh-MusicPlayer",
+      "name": "xiekai886/dsh-MusicPlayer",
+      "owner": "xiekai886",
+      "repo": "https://github.com/xiekai886/dsh-MusicPlayer",
+      "repoPath": null,
+      "url": "https://github.com/xiekai886/dsh-MusicPlayer",
+      "category": "fun",
+      "description": {
+        "en": "A collapsible/expandable draggable floating music player with NetEase Cloud Music playlist import and song/artist search — chat and listen at the same time.",
+        "zh": "可折叠/展开、自由拖动的悬浮音乐播放器，接入网易云音乐，支持歌单导入和按歌名或歌手搜索单曲导入，边对话边听歌。"
+      },
+      "npm": null,
+      "stars": 3,
+      "addedAt": "2026-08-14"
+    },
+    {
+      "slug": "yushi-xxh__dsh-homepage-skin",
+      "name": "yushi-xxh/dsh-homepage-skin",
+      "owner": "yushi-xxh",
+      "repo": "https://github.com/yushi-xxh/dsh-homepage-skin",
+      "repoPath": null,
+      "url": "https://github.com/yushi-xxh/dsh-homepage-skin",
+      "category": "fun",
+      "description": {
+        "en": "Adds the DeepSeek Harness homepage background to dsh web: WebGL fluid light, dot-line grid and a digital point-cloud whale, with dark and light palettes.",
+        "zh": "给 dsh web 铺上 DeepSeek Harness 首页同款背景：WebGL 流体光效、点线网格与数字点云鲸鱼，深色/亮色两套配色。"
+      },
+      "npm": {
+        "name": "dsh-homepage-skin",
+        "version": "0.1.13"
+      },
+      "stars": 1,
+      "addedAt": null
+    },
+    {
+      "slug": "yyh-001__dsh-meme",
+      "name": "yyh-001/dsh-meme",
+      "owner": "yyh-001",
+      "repo": "https://github.com/yyh-001/dsh-meme",
+      "repoPath": null,
+      "url": "https://github.com/yyh-001/dsh-meme",
+      "category": "fun",
+      "description": {
+        "en": "Chat meme stickers: text-only send, mood auto-send, QQ/WeChat-style picker, auto-learn, custom packs.",
+        "zh": "聊天表情包：纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包。"
+      },
+      "npm": {
+        "name": "dsh-meme",
+        "version": "0.1.44"
+      },
+      "stars": 5,
+      "addedAt": "2026-08-14"
+    },
+    {
+      "slug": "zoahdev__dsh-pet-evolve",
+      "name": "zoahdev/dsh-pet-evolve",
+      "owner": "zoahdev",
+      "repo": "https://github.com/zoahdev/dsh-pet-evolve",
+      "repoPath": null,
+      "url": "https://github.com/zoahdev/dsh-pet-evolve",
+      "category": "fun",
+      "description": {
+        "en": "The pet that grows with your agent: 5 evolution stages earned from real signals (verified rules, completed sessions, tool calls, compactions), agent-state mirroring, and one-click growth share cards. Zero dependencies, 100% local.",
+        "zh": "会随 agent 成长的宠物：真实信号（已验证规则/会话/工具调用/压缩）驱动 5 阶段进化、镜像 agent 状态、一键导出成长分享卡。零依赖、全本地。"
+      },
+      "npm": null,
+      "stars": 0,
+      "addedAt": null
+    }
+  ]
+}

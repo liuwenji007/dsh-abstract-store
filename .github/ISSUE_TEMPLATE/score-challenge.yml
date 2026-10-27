@@ -1,0 +1,41 @@
+name: 挑战一条评分 / Challenge a score
+description: 对某条收录、分数、判词或未收录理由提出异议。Argue about an inclusion, score, verdict, or exclusion reason.
+title: "[score] "
+labels: ["score-challenge"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: 条目 / Entry
+      description: 上游 slug，或仓库 URL。The upstream slug, or the repository URL.
+      placeholder: eric-song-dev__dsh-ikun-pet
+    validations:
+      required: true
+  - type: dropdown
+    id: aspect
+    attributes:
+      label: 异议对象 / What is wrong
+      options:
+        - 荒诞度 absurdity
+        - 情绪价值 emotion
+        - 完成度 craft
+        - 是否收录 inclusion
+        - 判词 verdict
+        - 事实字段 fact
+    validations:
+      required: true
+  - type: textarea
+    id: argument
+    attributes:
+      label: 理由 / Why
+      description: 引用上游描述或实际使用体验，把理由说得具体。Cite the upstream description or real usage; be specific.
+    validations:
+      required: true
+  - type: input
+    id: proposal
+    attributes:
+      label: 建议改法 / Proposed change
+      description: 例如「82 → 60」「改为不收录」。
+      placeholder: "82 → 60"
+    validations:
+      required: false
